@@ -6,9 +6,9 @@ A custom MIDI Remote Script for the **Allen & Heath Xone:K3** controller, built 
 
 ## Installation
 
-Copy the `Xone_K3` folder to:
+Copy content of this repo to:
 ```
-/Applications/Ableton Live 12 Suite.app/Contents/App-Resources/MIDI Remote Scripts/
+/Applications/Ableton Live 12 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Xone_K3
 ```
 
 Then in Ableton: **Preferences → MIDI** → set Control Surface to `Xone K3`, Input and Output to `XONE:K3`.
